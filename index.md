@@ -21,25 +21,26 @@ Here is **Zirong Ding (DzrStark, 丁梓镕)**.<br>
 ## 📖 Education
 
 - **B.Eng. in Information Engineering **
-   School of Telecommunications Engineering (STE), **Xidian University (XDU)**
+   
+   School of Telecommunications Engineering (STE), Xidian University (XDU)
    Sep. 2022 – Jun. 2026 (expected)
    
 - **Ph.D. Student in AI**
 
-   Shenzhen International Graduate School (SIGS), **Tsinghua University (THU)**
+   Shenzhen International Graduate School (SIGS), Tsinghua University (THU)
    Sep. 2026 – Jun. 2031 (expected)
 
 ---
 
 ## 🎉 Honors and Awards
 
-[2024.12] **National Scholarship** for Undergraduates, Chinese Ministry of Education(Top 1.5%)
+- [2024.12] **National Scholarship** for Undergraduates, Chinese Ministry of Education(Top 1.5%)
 
-[2023.12] **National Scholarship** for Undergraduates, Chinese Ministry of Education(Top 0.3%)
+- [2023.12] **National Scholarship** for Undergraduates, Chinese Ministry of Education(Top 0.3%)
 
-[2023.12] **Third Pirze**, China Undergraduate Physics Experiment Competition(CUPEC)
+- [2023.12] **Third Pirze**, China Undergraduate Physics Experiment Competition(CUPEC)
 
-[2023.05] **Honorable Mention**, Mathematical Contest in Modeling (MCM)
+- [2023.05] **Honorable Mention**, Mathematical Contest in Modeling (MCM)
 
 <br>
 
