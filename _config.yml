@@ -14,7 +14,7 @@ url: https://dzrstark.github.io/
 # --------------------------------------------------
 owner:
   name: Zirong Ding
-  avatar: makk.jpg
+  avatar: marin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: dingzrong@gmail.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -26,9 +26,9 @@ owner:
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   #zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
+  xiaohongshu: https://www.xiaohongshu.com/user/profile/5f390a4e0000000001001400?m_source=mengfanwetab
   #instagram: lancecai2002
-  bilibili: 594030035
+  #bilibili: 594030035
   # facebook: caihanlin2002
   # lastfm:
   # tumblr:
@@ -37,7 +37,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
@@ -53,12 +53,12 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  - #title: Hobbies
+    #url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: 中文
-    url: /cn/
+  - #title: 中文
+    #url: /cn/
 
 
 # --------------------------------------------------
