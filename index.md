@@ -21,11 +21,13 @@ Here is **Zirong Ding (DzrStark, 丁梓镕)**.<br>
 ## 📖 Education
 
 - **B.Eng. in Information Engineering **
-   *School of Telecommunications Engineering (STE), **Xidian University (XDU)***
-   *Sep. 2022 – Jun. 2026 (expected)*
+   School of Telecommunications Engineering (STE), **Xidian University (XDU)**
+   Sep. 2022 – Jun. 2026 (expected)
+   
 - **Ph.D. Student in AI**
-   *Shenzhen International Graduate School (SIGS), **Tsinghua University (THU)***
-   *Sep. 2026 – Jun. 2031 (expected)*
+
+   Shenzhen International Graduate School (SIGS), **Tsinghua University (THU)**
+   Sep. 2026 – Jun. 2031 (expected)
 
 ---
 
