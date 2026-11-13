@@ -16,6 +16,12 @@ h2{display:flex;align-items:center;gap:18px;margin:0 0 18px;font:clamp(33px,3vw,
 @media(max-width:380px){.inscription{font-size:27px}.intro h1{font-size:45px}.mast nav{gap:15px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
+.experience .detail a {
+  color: #ad4529;
+  font-weight: 600;
+  text-decoration-color: currentColor;
+}
+
 .author-key{display:flex;flex-wrap:wrap;gap:4px 22px;list-style:none;padding:0;margin:-5px 0 16px;color:var(--muted);font:italic 18px/1.35 var(--serif)}
 .author-key li,.authors span,.authors strong{white-space:nowrap}
 .author-key li span,.authors sup{color:var(--clay);font-family:Georgia,serif;font-style:normal}
